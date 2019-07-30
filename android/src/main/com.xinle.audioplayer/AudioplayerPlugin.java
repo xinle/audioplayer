@@ -1,4 +1,4 @@
-package bz.rxla.audioplayer;
+package android.src.main.com.xinle.audioplayer;
 
 import android.media.AudioManager;
 import android.media.MediaPlayer;
@@ -20,7 +20,7 @@ import android.os.Build;
  * Android implementation for AudioPlayerPlugin.
  */
 public class AudioplayerPlugin implements MethodCallHandler {
-  private static final String ID = "bz.rxla.flutter/audio";
+  private static final String ID = "flutter/audio/channel/id01";
 
   private final MethodChannel channel;
   private final AudioManager am;

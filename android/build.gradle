@@ -1,4 +1,4 @@
-group 'bz.rxla.audioplayer'
+group 'com.xinle.audioplayer'
 version '1.0-SNAPSHOT'
 
 buildscript {

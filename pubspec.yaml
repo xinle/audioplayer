@@ -6,7 +6,7 @@ homepage: https://github.com/rxlabz/audioplayer
 
 flutter:
   plugin:
-    androidPackage: bz.rxla.audioplayer
+    androidPackage: com.xinle.audioplayer
     pluginClass: AudioplayerPlugin
 
 dependencies:

@@ -19,7 +19,7 @@ enum AudioPlayerState {
 }
 
 const MethodChannel _channel =
-    const MethodChannel('bz.rxla.flutter/audio');
+    const MethodChannel('flutter/audio/channel/id01');
 
 /// A plugin for controlling the on device audio player.
 ///

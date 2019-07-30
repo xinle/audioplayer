@@ -3,7 +3,7 @@
 #import <AVKit/AVKit.h>
 #import <AVFoundation/AVFoundation.h>
 
-static NSString *const CHANNEL_NAME = @"bz.rxla.flutter/audio";
+static NSString *const CHANNEL_NAME = @"flutter/audio/channel/id01";
 static FlutterMethodChannel *channel;
 static AVPlayer *player;
 static AVPlayerItem *playerItem;
